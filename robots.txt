@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.medjobs237.com/sitemap.xml

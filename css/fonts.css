@@ -1,0 +1,65 @@
+/* Roboto font */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-v48-latin-regular.woff2') format('woff2'),
+         url('../fonts/roboto-v48-latin-regular.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/roboto-v48-latin-700.woff2') format('woff2'),
+         url('../fonts/roboto-v48-latin-700.woff') format('woff');
+    font-display: swap;
+}
+
+/* Montserrat font */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/montserrat-v30-latin-regular.woff2') format('woff2'),
+         url('../fonts/montserrat-v30-latin-regular.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/montserrat-v30-latin-600.woff2') format('woff2'),
+         url('../fonts/montserrat-v30-latin-600.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/montserrat-v30-latin-700.woff2') format('woff2'),
+         url('../fonts/montserrat-v30-latin-700.woff') format('woff');
+    font-display: swap;
+}
+
+/* Heebo font */
+@font-face {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/heebo-v27-latin-regular.woff2') format('woff2'),
+         url('../fonts/heebo-v27-latin-regular.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/heebo-v27-latin-500.woff2') format('woff2'),
+         url('../fonts/heebo-v27-latin-500.woff') format('woff');
+    font-display: swap;
+}
